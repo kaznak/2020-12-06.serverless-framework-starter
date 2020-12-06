@@ -20,3 +20,7 @@ sls
 '''
 useDotenv: true
 '''
+
+If you want to use(assume) IAM role in the profile, please refer following:
+
+- [Using an IAM role in the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-role.html)
